@@ -25,6 +25,10 @@
 
 </head>
 <body>
-    
+
+<div class="container-fluid cabecalho text-center">
+
 <p>Cabeçalho</p>
-<hr>
+</div>
+    
+

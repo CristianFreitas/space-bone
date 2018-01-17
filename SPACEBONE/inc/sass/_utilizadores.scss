@@ -1,0 +1,43 @@
+/*  barra dos utilizadores  */
+
+.barra_utilizadores{
+    margin: 0px;
+    padding: 20px;
+    text-align: right;
+    background-color: rgb(32, 32, 32);
+    color: rgb(143, 169, 226);
+
+    a{
+        text-decoration: none;
+        color: black;
+        background-color: white;
+    }
+    a:hover{
+        color:rgb(194,194,194);
+        background-color: rgb(95,95,95);
+    }
+}
+
+.barra_utilizador_inativo{
+    color: rgb(80, 80, 80);
+}
+.barra_utilizador_ativo{
+    color: white;
+}
+
+.permissao-titulo{
+    font-weight: bold;
+ 
+}
+
+.permissao-sumario{
+    font-size: .8em;
+    font-style: italic;
+    opacity: .7;
+}
+
+.caixa-permissoes{
+    label{
+        margin:0px !important;
+    }
+}
